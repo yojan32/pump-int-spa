@@ -9,8 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.12.8",
+    "@apollo/experimental-nextjs-app-support": "^0.11.8",
+    "@tailwindcss/postcss": "^4.0.3",
+    "html-react-parser": "^5.2.2",
+    "next": "15.1.6",
+    "postcss": "^8.5.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.6"
+    "tailwindcss": "^4.0.3"
   }
 }
